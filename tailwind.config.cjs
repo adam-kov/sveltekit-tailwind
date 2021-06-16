@@ -19,6 +19,11 @@ module.exports = {
         title: ['"Bebas Neue"', 'cursive'],
         body: ['Montserrat', 'sans-serif'],
       },
+			screens: {
+				'fhd': '1900px',
+				'qhd': '2500px',
+				'4k': '3800px',
+			}
 		},
   },
   variants: {
